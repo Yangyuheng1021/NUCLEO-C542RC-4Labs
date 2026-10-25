@@ -1,0 +1,64 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"stm32c5xx_dfp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "STMicroelectronics_stm32c5xx_dfp_2_1_0::@30629a29855fa61b4c6a",
+	"interfaceSources" : 
+	[
+		{
+			"path" : "user_modifiable/Device/STM32C542RCT6/system_stm32c5xx.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "user_modifiable/Device/STM32C542RCT6/startup_stm32c542xx.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"name" : "STMicroelectronics_stm32c5xx_dfp_2_1_0",
+	"paths" : 
+	{
+		"build" : "stm32c5xx_dfp",
+		"source" : "stm32c5xx_dfp"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"interfaceSourceIndexes" : 
+			[
+				0,
+				1
+			],
+			"name" : "Source Files",
+			"sourceIndexes" : []
+		}
+	],
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

@@ -1,0 +1,3 @@
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/main.c:4:13:led_blink	24	static
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/main.c:15:6:HAL_EXTI_TriggerCallback	16	static
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/main.c:21:5:main	16	static

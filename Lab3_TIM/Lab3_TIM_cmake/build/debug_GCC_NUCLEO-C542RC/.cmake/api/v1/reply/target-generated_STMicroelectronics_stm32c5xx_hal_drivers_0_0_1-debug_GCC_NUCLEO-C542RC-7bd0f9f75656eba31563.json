@@ -1,0 +1,101 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include"
+		],
+		"files" : 
+		[
+			"generated/hal/STM32_HAL_Driver_codegen.cmake",
+			"generated/hal/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "generated_STMicroelectronics_stm32c5xx_hal_drivers_0_0_1::@7aadf589f92185dd1daf",
+	"interfaceSources" : 
+	[
+		{
+			"path" : "generated/hal/mx_cortex_mpu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "generated/hal/mx_cortex_nvic.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "generated/hal/mx_gpio_default.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "generated/hal/mx_icache.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "generated/hal/mx_rcc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "generated/hal/mx_system.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "generated/hal/mx_tim6.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"name" : "generated_STMicroelectronics_stm32c5xx_hal_drivers_0_0_1",
+	"paths" : 
+	{
+		"build" : "generated/hal",
+		"source" : "generated/hal"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"interfaceSourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name" : "Source Files",
+			"sourceIndexes" : []
+		}
+	],
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

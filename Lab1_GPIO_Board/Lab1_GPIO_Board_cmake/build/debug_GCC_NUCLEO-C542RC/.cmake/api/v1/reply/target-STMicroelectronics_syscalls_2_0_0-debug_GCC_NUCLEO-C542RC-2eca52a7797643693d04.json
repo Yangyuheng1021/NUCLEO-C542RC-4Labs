@@ -1,0 +1,64 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"utilities/syscalls/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "STMicroelectronics_syscalls_2_0_0::@26947dc6adce9a364841",
+	"interfaceSources" : 
+	[
+		{
+			"path" : "utilities/syscalls/syscalls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "utilities/syscalls/sysmem.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"name" : "STMicroelectronics_syscalls_2_0_0",
+	"paths" : 
+	{
+		"build" : "utilities/syscalls",
+		"source" : "utilities/syscalls"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"interfaceSourceIndexes" : 
+			[
+				0,
+				1
+			],
+			"name" : "Source Files",
+			"sourceIndexes" : []
+		}
+	],
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

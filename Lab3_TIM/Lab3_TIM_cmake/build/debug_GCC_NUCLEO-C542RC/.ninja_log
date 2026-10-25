@@ -1,0 +1,24 @@
+# ninja log v7
+287	993	8146008254318725	CMakeFiles/Lab3_TIM.dir/user_modifiable/Device/STM32C542RCT6/startup_stm32c542xx.c.obj	d28f8e5c591816cf
+263	1373	8146008254078579	CMakeFiles/Lab3_TIM.dir/user_modifiable/Device/STM32C542RCT6/system_stm32c5xx.c.obj	49e185f17ed94393
+607	1424	8146008257524540	CMakeFiles/Lab3_TIM.dir/utilities/syscalls/sysmem.c.obj	aeb68afc9873e8eb
+579	1653	8146008257232390	CMakeFiles/Lab3_TIM.dir/utilities/syscalls/syscalls.c.obj	556566189bac0a1b
+500	2046	8146008256446631	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_q.c.obj	4ee47564b316e466
+119	2053	8146008252640316	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_cortex_nvic.c.obj	6ccabdb3132b13bd
+171	2078	8146008253160275	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_icache.c.obj	46b64032879aabb6
+192	2081	8146008253375095	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_rcc.c.obj	46e96f3503243406
+411	2094	8146008255566066	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_gpio.c.obj	84cb180da563b065
+97	2098	8146008252415499	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_cortex_mpu.c.obj	8953f4bf36a5e44d
+142	2106	8146008252870277	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_gpio_default.c.obj	31ce161def4343e4
+73	2115	8146008252180089	CMakeFiles/Lab3_TIM.dir/main.c.obj	4b51b76b80009161
+238	2117	8146008253828578	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_tim6.c.obj	463f0949d6c0a510
+310	2126	8146008254549610	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal.c.obj	d163c4f357a7f218
+215	2127	8146008253603319	CMakeFiles/Lab3_TIM.dir/generated/hal/mx_system.c.obj	d311ec67dc2fbf98
+440	2133	8146008255846582	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_icache.c.obj	8fb2e75f28677a5
+468	2136	8146008256146519	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_pwr.c.obj	5cbbd68f21fae015
+335	2155	8146008254804878	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_cortex.c.obj	f0d4516d52c659c9
+360	2166	8146008255044170	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_dma.c.obj	cba61d8f832cf571
+385	2224	8146008255294251	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_flash_itf.c.obj	127c466efcc84a98
+526	2283	8146008256722334	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.c.obj	183b4b5c7dcdecc2
+554	2517	8146008256982316	CMakeFiles/Lab3_TIM.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_tim.c.obj	cd9dd8627362ea5d
+2517	3069	8146008276623313	Lab3_TIM.elf	72d73f3bd6af27b7

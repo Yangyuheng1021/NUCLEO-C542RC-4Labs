@@ -1,0 +1,89 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"stm32c5xx_drivers/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "STMicroelectronics_stm32c5xx_hal_drivers_2_1_0::@7bca7ae2963d0ee0ce7e",
+	"interfaceSources" : 
+	[
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal_cortex.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal_flash_itf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal_gpio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal_icache.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal_pwr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"path" : "stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"name" : "STMicroelectronics_stm32c5xx_hal_drivers_2_1_0",
+	"paths" : 
+	{
+		"build" : "stm32c5xx_drivers",
+		"source" : "stm32c5xx_drivers"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"interfaceSourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name" : "Source Files",
+			"sourceIndexes" : []
+		}
+	],
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

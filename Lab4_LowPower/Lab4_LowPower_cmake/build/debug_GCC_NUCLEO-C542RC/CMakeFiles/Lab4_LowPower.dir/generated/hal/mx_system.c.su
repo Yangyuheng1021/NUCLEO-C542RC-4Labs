@@ -1,0 +1,4 @@
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/generated/hal/mx_system.c:32:17:mx_system_init	8	static
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/generated/hal/mx_system.c:122:6:SysTick_Handler	8	static
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/generated/hal/mx_system.c:132:24:pre_system_init_hook	4	static
+E:/STM32C5/NUCLEO-C542RC/Lab4_LowPower/Lab4_LowPower_cmake/generated/hal/mx_system.c:144:24:post_system_init_hook	4	static

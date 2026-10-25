@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"arch/cmsis/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "STMicroelectronics_CMSIS_6_3_0::@2526a0ecc8c9b81cc18c",
+	"name" : "STMicroelectronics_CMSIS_6_3_0",
+	"paths" : 
+	{
+		"build" : "arch/cmsis",
+		"source" : "arch/cmsis"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

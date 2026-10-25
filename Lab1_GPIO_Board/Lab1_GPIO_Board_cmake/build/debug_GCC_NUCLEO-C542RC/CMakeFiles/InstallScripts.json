@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/cmake_install.cmake",
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/arch/cmsis/cmake_install.cmake",
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/stm32c5xx_dfp/cmake_install.cmake",
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/stm32c5xx_drivers/cmake_install.cmake",
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/utilities/syscalls/cmake_install.cmake",
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/generated/hal/cmake_install.cmake",
+		"E:/STM32C5/NUCLEO-C542RC/Lab1_GPIO_Board/Lab1_GPIO_Board_cmake/build/debug_GCC_NUCLEO-C542RC/generated/utilities/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

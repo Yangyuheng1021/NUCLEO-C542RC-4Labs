@@ -1,0 +1,24 @@
+# ninja log v7
+366	1141	8145711525758457	CMakeFiles/Lab1_GPIO_Board.dir/user_modifiable/Device/STM32C542RCT6/startup_stm32c542xx.c.obj	8a9c76bd33f8edc8
+682	1483	8145711528916731	CMakeFiles/Lab1_GPIO_Board.dir/utilities/syscalls/sysmem.c.obj	8a2ad03d05e6e652
+330	1326	8145711525392575	CMakeFiles/Lab1_GPIO_Board.dir/user_modifiable/Device/STM32C542RCT6/system_stm32c5xx.c.obj	703bbc4e34a8f796
+234	1422	8145711524446745	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_icache.c.obj	fd96da2df472a4ab
+175	1215	8145711523845680	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_cortex_nvic.c.obj	6e33b2114e07259e
+111	1063	8145711523205877	CMakeFiles/Lab1_GPIO_Board.dir/main.c.obj	aa319cdd6fd1dc0c
+146	1133	8145711523558584	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_cortex_mpu.c.obj	3bac7f82b2de7473
+207	1279	8145711524165660	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_gpio_default.c.obj	1d9af94ffcbc1a02
+296	1506	8145711525052483	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_system.c.obj	42a7859f30a59bd5
+265	1397	8145711524742540	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_rcc.c.obj	c26d39241f6e0030
+495	1684	8145711527054143	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_gpio.c.obj	f28d382687979aa3
+429	1635	8145711526388518	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_cortex.c.obj	b0d5279517c2dc5c
+537	1705	8145711527466025	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_icache.c.obj	47768abfe9aec019
+569	1729	8145711527785399	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_pwr.c.obj	91ad5e791edd924f
+398	1569	8145711526068460	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal.c.obj	cc491f7ed78bcf3c
+461	1690	8145711526714229	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_flash_itf.c.obj	b56a8842e541bed0
+601	1935	8145711528099486	CMakeFiles/Lab1_GPIO_Board.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.c.obj	49bc6fb8ff748c1a
+635	1751	8145711528449614	CMakeFiles/Lab1_GPIO_Board.dir/utilities/syscalls/syscalls.c.obj	b22d7693bf0bc69f
+1935	2515	8145711541446854	Lab1_GPIO_Board.elf	e3d7f29595892fdf
+64	1021	8145939634767159	CMakeFiles/Lab1_GPIO_Board.dir/main.c.obj	aa319cdd6fd1dc0c
+92	1061	8145939635047190	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_gpio_default.c.obj	1d9af94ffcbc1a02
+113	1116	8145939635246728	CMakeFiles/Lab1_GPIO_Board.dir/generated/hal/mx_system.c.obj	42a7859f30a59bd5
+1117	2052	8145939645287060	Lab1_GPIO_Board.elf	e3d7f29595892fdf

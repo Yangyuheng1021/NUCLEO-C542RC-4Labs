@@ -1,0 +1,3 @@
+E:/STM32C5/NUCLEO-C542RC/Lab2_UART/Lab2_UART_cmake/main.c:10:13:uart_send	24	static
+E:/STM32C5/NUCLEO-C542RC/Lab2_UART/Lab2_UART_cmake/main.c:15:6:HAL_UART_RxCpltCallback	32	static
+E:/STM32C5/NUCLEO-C542RC/Lab2_UART/Lab2_UART_cmake/main.c:46:5:main	8	static
