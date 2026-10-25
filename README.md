@@ -2,6 +2,8 @@
 
 基于 ST **NUCLEO-C542RC**（STM32C542RCT6，Arm Cortex-M33，144 MHz）的四个入门实验，使用 **STM32CubeMX2 + CMake + GCC** 开发。
 
+> 详细图文教程：[docs/STM32C5_NUCLEO-C542RC_4Labs.md](docs/STM32C5_NUCLEO-C542RC_4Labs.md)
+
 ## 实验列表
 
 | 实验 | 目录 | 内容 |
